@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  font-size: 21px;
+
+}
+
+p,ul,li {
+  color: yellow;
+}
+
+h1,h2 {
+  text-align: center;
+  color: red;
+}
+img{
+  height: 600px;
+  width: 600px;
+
+}
